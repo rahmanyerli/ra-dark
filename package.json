@@ -1,7 +1,7 @@
 {
     "name": "ra-dark",
-    "displayName": "ra-dark",
-    "description": "ra-dark",
+    "displayName": "Ra Dark",
+    "description": "Here is the best theme for your eye care!",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.30.0"
@@ -27,5 +27,5 @@
         "type": "GitHub",
         "url": "https://github.com/rahmanyerli/ra-dark"
     },
-    "icon": "./images/ra.png"
+    "icon": "images/ra.png"
 }
