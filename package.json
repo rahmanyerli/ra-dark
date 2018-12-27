@@ -2,7 +2,7 @@
 	"name": "ra-dark",
 	"displayName": "Ra Dark",
 	"description": "Here is the best theme for your eye care!",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
