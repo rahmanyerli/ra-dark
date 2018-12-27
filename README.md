@@ -1,27 +1,30 @@
-# Ra Dark Theme for VSCode
+# Ra Dark theme for VSCode
 
 **Here is the best theme for your eye care!**
 
-[Repository](https://github.com/rahmanyerli/ra-dark)
+[Code Repository](https://github.com/rahmanyerli/ra-dark)
 
-> JSON
+Ra Light and Ra Silver themes are coming soon...
 
-![Screen Shot-I](./images/image-1.png)
+> HTML
+
+![Screen Shot-III](./images/html.png)
 
 ---
 
 > JS
 
-![Screen Shot-II](./images/image-2.png)
-
----
-
-> HTML
-
-![Screen Shot-III](./images/image-3.png)
+![Screen Shot-II](./images/js.png)
 
 ---
 
 > CSS
 
-![Screen Shot-III](./images/image-4.png)
+![Screen Shot-III](./images/css.png)
+
+---
+
+> JSON
+
+![Screen Shot-I](./images/json.png)
+
