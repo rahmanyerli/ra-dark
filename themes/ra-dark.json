@@ -2,20 +2,42 @@
 	"name": "Ra Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#222222",
-		"editor.foreground": "#D4D4D8",
-		"activityBar.background": "#222222",
+		"editor.background": "#202020",
+		"editor.foreground": "#E0E0E0",
+		"editorLineNumber.foreground": "#606060",
+		"editorLineNumber.activeForeground": "#909090",
+		"editorIndentGuide.background": "#FFFFFF10",
+		"editorIndentGuide.activeBackground": "#FFFFFF20",
+		"editor.lineHighlightBackground": "#FFFFFF08",
+		"editor.selectionBackground": "#FFFFFF20",
+		"editor.selectionHighlightBackground": "#FFFFFF30",
+		"editor.wordHighlightBackground": "#FFFFFF30",
+		"editor.wordHighlightStrongBackground": "#FFFFFF40",
+		"editor.findMatchBackground": "#FFFFFF10",
+		"editor.findMatchHighlightBackground": "#FFFFFF20",
+		"editor.findRangeHighlightBackground": "#FFFFFF30",
+		"editor.hoverHighlightBackground": "#FFFFFF40",
+		"editor.rangeHighlightBackground": "#FFFFFF40",
+		"editorBracketMatch.background": "#FFFFFF10",
+		"editorWidget.background": "#202020",
+		"activityBar.background": "#202020",
+		"activityBar.border": "#FFFFFF10",
 		"activityBarBadge.background": "#3366CC",
-		"sideBar.background": "#191919",
-		"sideBarSectionHeader.background": "#222222",
-		"statusBar.background": "#333333",
+		"sideBar.background": "#202020",
+		"sideBar.border": "#FFFFFF10",
+		"sideBarSectionHeader.background": "#242424",
+		"statusBar.background": "#202020",
 		"statusBar.debuggingBackground": "#3366CC",
-		"list.activeSelectionBackground": "#222222",
-		"list.inactiveSelectionBackground": "#222222",
-		"list.hoverBackground": "#222222",
-		"editorGroupHeader.tabsBackground": "#333333",
-		"tab.activeBackground": "#222222",
-		"tab.inactiveBackground": "#333333"
+		"statusBar.border": "#FFFFFF10",
+		"list.activeSelectionBackground": "#303030",
+		"list.inactiveSelectionBackground": "#202020",
+		"list.hoverBackground": "#282828",
+		"editorGroupHeader.tabsBackground": "#202020",
+		"editorGroupHeader.tabsBorder": "#FFFFFF10",
+		"tab.activeBackground": "#282828",
+		"tab.activeBorder": "#FF9999",
+		"tab.inactiveBackground": "#202020",
+		"tab.border": "#FFFFFF10"
 	},
 	"tokenColors": [
 		{
@@ -24,7 +46,7 @@
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"foreground": "#D4D4D8"
+				"foreground": "#E0E0E0"
 			}
 		},
 		{
@@ -48,7 +70,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#556677"
+				"foreground": "#606060"
 			}
 		},
 		{
@@ -158,7 +180,7 @@
 		{
 			"scope": "beginning.punctuation.definition.quote.markdown",
 			"settings": {
-				"foreground": "#556677"
+				"foreground": "#606060"
 			}
 		},
 		{
@@ -183,7 +205,7 @@
 			"name": "brackets of XML/HTML tags",
 			"scope": "punctuation.definition.tag",
 			"settings": {
-				"foreground": "#D4D4D8"
+				"foreground": "#E0E0E0"
 			}
 		},
 		{
@@ -275,7 +297,7 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#D4D4D8"
+				"foreground": "#E0E0E0"
 			}
 		},
 		{
@@ -306,7 +328,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#D4D4D8"
+				"foreground": "#E0E0E0"
 			}
 		},
 		{
@@ -357,7 +379,7 @@
 				"storage.modifier.package.java"
 			],
 			"settings": {
-				"foreground": "#D4D4D8"
+				"foreground": "#E0E0E0"
 			}
 		},
 		{
@@ -375,7 +397,7 @@
 				"support.constant.handlebars"
 			],
 			"settings": {
-				"foreground": "#CC9966"
+				"foreground": "#CC99CC"
 			}
 		},
 		{
@@ -413,7 +435,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#CC99CC"
+				"foreground": "#66CCCC"
 			}
 		},
 		{
@@ -427,7 +449,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#CC99CC"
+				"foreground": "#66CCCC"
 			}
 		},
 		{
@@ -553,13 +575,13 @@
 		{
 			"scope": "variable",
 			"settings": {
-				"foreground": "#D4D4D8"
+				"foreground": "#E0E0E0"
 			}
 		},
 		{
 			"scope": "entity.name.variable",
 			"settings": {
-				"foreground": "#D4D4D8"
+				"foreground": "#E0E0E0"
 			}
 		}
 	]

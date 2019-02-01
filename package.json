@@ -2,7 +2,7 @@
 	"name": "ra-dark",
 	"displayName": "Ra Dark",
 	"description": "Here is the best theme for your eye care!",
-	"version": "1.0.4",
+	"version": "1.1.0",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
@@ -28,12 +28,22 @@
 		"url": "https://github.com/rahmanyerli/ra-dark"
 	},
 	"icon": "images/ra.png",
+	"galleryBanner": {
+		"color": "#303030",
+		"theme": "dark"
+	},
 	"keywords": [
+		"theme",
+		"vs theme",
+		"code theme",
+		"vscode theme",
+		"dark theme",
+		"vscode, dark theme",
+		"ra",
+		"ra dark theme",
 		"ra dark",
 		"radark",
 		"ra-dark",
-		"ra dark theme",
-		"theme",
-		"ra"
+		"ra dark theme"
 	]
 }
